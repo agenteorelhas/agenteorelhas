@@ -25,6 +25,7 @@ Detenho uma forte vontade de sempre aprender novas habilidades e aprimorar as qu
 <img src="https://raw.githubusercontent.com/agenteorelhas/agenteorelhas/output/snake.svg" alt="Snake animation" />
  
 </div>
+
 ## 🔥 Streaks 
 
 <p align="center">

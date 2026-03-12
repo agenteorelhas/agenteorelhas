@@ -1,18 +1,12 @@
-Readme.MD:
-<img src="https://raw.githubusercontent.com/gitUser/gitrepo/output/snake.svg" alt="Snake animation" />
-
-Sbake.yml:
 name: Generate snake animation
 
 on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
-
+  schedule:
+    - cron: "0 */12 * * *" # Executa a cada 12 horas
   workflow_dispatch:
-
   push:
     branches:
-    - master
+      - master # Ou 'main', dependendo da sua branch principal
 
 jobs:
   generate:
@@ -26,13 +20,13 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: agenteorelhas
-          outputs: dist/snake.svg?palette=github-dark
-
+          # Removi o 'dist/' do output para simplificar o deploy
+          outputs: snake.svg?palette=github-dark
 
       - name: push snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
-          build_dir: dist
+          build_dir: . # Se gerou na raiz, o build_dir é '.'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

@@ -22,8 +22,7 @@ Detenho uma forte vontade de sempre aprender novas habilidades e aprimorar as qu
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agenteorelhas&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
-
- ![Snake animation]<img src="https://raw.githubusercontent.com/agenteorelhas/agenteorelhas/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/agenteorelhas/agenteorelhas/output/snake.svg" alt="Snake animation" />
  
 </div>
 ## 🔥 Streaks 

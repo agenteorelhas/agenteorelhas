@@ -16,10 +16,11 @@ Detenho uma forte vontade de sempre aprender novas habilidades e aprimorar as qu
 
 ## 📈 Estatísticas do GitHub  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=agenteorelhas&show_icons=true&theme=tokyonight" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agenteorelhas&layout=compact&langs_count=7&theme=tokyonight" height="180em"/>
-</p>
+ <div>
+  <a href="https://github.com/agenteorelhas">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=agenteorelhas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agenteorelhas&layout=compact&langs_count=16&theme=dracula"/>
+</div>
 
 ## 🔥 Streaks 
 

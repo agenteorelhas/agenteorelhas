@@ -21,6 +21,11 @@ Detenho uma forte vontade de sempre aprender novas habilidades e aprimorar as qu
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agenteorelhas&layout=compact&langs_count=7&theme=tokyonight" height="180em"/>
 </p>
 
+## 🔥 Streaks 
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amorimo&theme=tokyonight" alt="GitHub Streak" />
+</p>
 ---
 
 ## ☕ ​​Interests
@@ -32,10 +37,7 @@ Detenho uma forte vontade de sempre aprender novas habilidades e aprimorar as qu
 - 📱 Desenvolvimento de Software
 
 ---
+## 🤝 Meet Me  
 
-## 🔥 Streaks  
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=agentecoelho&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
+[![Linkedin Badge](https://img.shields.io/badge/-Guilherme_Reis_Bispo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/guilherme-reis-bispo-7b8457317/)](https://www.linkedin.com/in/guilherme-reis-bispo-7b8457317/)  
+[![Gmail Badge](https://img.shields.io/badge/-guilhermework2442@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guilhermework2442@gmail.com)](mailto:guilhermework2442@gmail.com)  

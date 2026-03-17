@@ -3,17 +3,6 @@
 Sou um **estudante entusiasta da tecnologia**, formado em **Manutenção e Infraestrutura de TI** e que está cursando **Ciências da Computação** na Univercidade Cruzeiro do Sul.
 Detenho uma forte vontade de sempre aprender novas habilidades e aprimorar as que possuo
 
----
-
-## 💻 Skills
-### Language & Tools  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,nodejs,git,linux,windows" />
-</p>
-
-
----
-
 ## 📈 Estatísticas do GitHub  
 
  <div>
@@ -33,7 +22,16 @@ Detenho uma forte vontade de sempre aprender novas habilidades e aprimorar as qu
 </p>
 
 ---
+---
 
+## 💻 Skills
+### Language & Tools  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,nodejs,git,linux,windows" />
+</p>
+
+
+---
 ## ☕ ​​Interests
 
 - 🔐 Segurança Digital  

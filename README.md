@@ -18,7 +18,7 @@ Detenho uma forte vontade de sempre aprender novas habilidades e aprimorar as qu
 ## 🔥 Streaks 
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amorimo&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=agenteorelhas&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---

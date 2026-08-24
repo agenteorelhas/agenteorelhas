@@ -5,12 +5,8 @@ Detenho uma forte vontade de sempre aprender novas habilidades e aprimorar as qu
 
 ## 📈 Estatísticas do GitHub  
 
-<div align="center">
-  <a href="https://github.com/agenteorelhas">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=agenteorelhas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  </a>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agenteorelhas&layout=compact&langs_count=8&theme=dracula&count_private=true" alt="Linguagens mais usadas" />
-</div>
+[![Estatísticas do GitHub](https://github-readme-stats.deno.dev/api?username=agenteorelhas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/agenteorelhas)
+[![Linguagens mais usadas](https://github-readme-stats.deno.dev/api/top-langs/?username=agenteorelhas&layout=compact&langs_count=8&theme=dracula&count_private=true)](https://github.com/agenteorelhas)
 
 <div style="display: inline-block"><br>
   <img src="https://raw.githubusercontent.com/agenteorelhas/agenteorelhas/output/snake.svg" alt="Snake animation" />

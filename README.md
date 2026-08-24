@@ -4,12 +4,6 @@ Sou um **estudante entusiasta da tecnologia**, formado em **Manutenção e Infra
 Detenho uma forte vontade de sempre aprender novas habilidades e aprimorar as que possuo
 
 ## 📈 Estatísticas do GitHub  
-
- <div>
-  <a href="https://github.com/agenteorelhas">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agenteorelhas&layout=compact&langs_count=16&theme=dracula&count_private=true&v=1"/>
-</div>
-
 <div style="display: inline-block"><br>
   <img src="https://raw.githubusercontent.com/agenteorelhas/agenteorelhas/output/snake.svg" alt="Snake animation" />
 </div>

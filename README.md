@@ -5,9 +5,16 @@ Detenho uma forte vontade de sempre aprender novas habilidades e aprimorar as qu
 
 ## 📈 Estatísticas do GitHub  
 
-| Estatísticas do GitHub | Linguagens Mais Usadas |
-| :---: | :---: |
-| [![Estatísticas de agenteorelhas](https://github-readme-stats.deno.dev/api?username=agenteorelhas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/agenteorelhas) | [![Linguagens mais usadas por agenteorelhas](https://github-readme-stats.deno.dev/api/top-langs/?username=agenteorelhas&layout=compact&langs_count=8&theme=dracula&count_private=true)](https://github.com/agenteorelhas) |
+ <div>
+  <a href="https://github.com/agenteorelhas">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=agenteorelhas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&v=1"/>
+  </a>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agenteorelhas&layout=compact&langs_count=16&theme=dracula&count_private=true&v=1"/>
+</div>
+
+<div style="display: inline-block"><br>
+  <img src="https://raw.githubusercontent.com/agenteorelhas/agenteorelhas/output/snake.svg" alt="Snake animation" />
+</div>
 
 ## 🔥 Streaks 
 

@@ -1,6 +1,6 @@
 # 🐰 Profile
 
-Sou um **estudante entusiasta da tecnologia**, formado em **Manutenção e Infraestrutura de TI** e que está cursando **Ciências da Computação** na Univercidade Cruzeiro do Sul.
+Sou um **estudante entusiasta da tecnologia**, formado em **Manutenção e Infraestrutura de TI** e que está cursando **Ciências da Computação** na Univercidade de São Paulo (UNICID) e se especializando em Cyber Security.
 Detenho uma forte vontade de sempre aprender novas habilidades e aprimorar as que possuo
 
 ## 📈 Estatísticas do GitHub  
